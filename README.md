@@ -16,6 +16,7 @@ The task was created as following:
  > job.yaml
  > EC2_Minikube_jenkins_yaml_pipeline.mp4
 
+====================================
 
 PHASE#2
 =========

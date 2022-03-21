@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: leumi-pod
+spec:
+  containers:
+  - name: leumi-pod
+    image: talash/leumi:bankleumi
+    #command: ["/var/lib/jenkins/Bank_Leumi.bash"]
+  restartPolicy: OnFailure

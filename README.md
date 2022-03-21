@@ -11,10 +11,11 @@ The task was created as following:
 5. jenkins configured with minikube credential
 6. pipeline created to run a job. The job creates a pod (bank-leumi-XXX). the pod log gives the output "Hello Bank Leumi" 
 
-* attached files:
- > Jenkins_pipeline.rtf
- > job.yaml
- > EC2_Minikube_jenkins_yaml_pipeline.mp4
+attached files:
+
+* Jenkins_pipeline.rtf
+* job.yaml
+* EC2_Minikube_jenkins_yaml_pipeline.mp4
 
 ====================================
 
@@ -26,8 +27,9 @@ PHASE#2
 3. docker image created and uploaded to the : https://hub.docker.com/  (https://hub.docker.com/repository/docker/talash/leumi)
 4. pod.yaml created (pod.yaml.txt)
 
-* attached files:
-> Dockerfile.rtf
-> leumi_script.rtf
-> pod.yaml.txt
+attached files:
+
+* Dockerfile.rtf
+* leumi_script.rtf
+* pod.yaml.txt
 

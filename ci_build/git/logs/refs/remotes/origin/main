@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 4f3f4be33c3052156549c3a858dc3db95863094b Jenkins <jenkins@ip-172-31-10-96.us-west-2.compute.internal> 1647866873 +0000	fetch --tags --force --progress -- https://github.com/talash1971/LEUMI +refs/heads/*:refs/remotes/origin/*: storing head
